@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Журнал</title>
-    <link href="https://journal.madebytiny.studio/feed.xml" rel="self" />
-    <link href="https://journal.madebytiny.studio" />
+    <link href="http://journal.madebytiny.studio/feed.xml" rel="self" />
+    <link href="http://journal.madebytiny.studio" />
     <updated>2025-05-10T13:11:04+05:00</updated>
     <author>
         <name>Tiny Studio</name>
     </author>
-    <id>https://journal.madebytiny.studio</id>
+    <id>http://journal.madebytiny.studio</id>
 
     <entry>
         <title>Алматы</title>
         <author>
             <name>Чингиз Тибэй</name>
         </author>
-        <link href="https://journal.madebytiny.studio/almaty-3/"/>
-        <id>https://journal.madebytiny.studio/almaty-3/</id>
+        <link href="http://journal.madebytiny.studio/almaty-3/"/>
+        <id>http://journal.madebytiny.studio/almaty-3/</id>
             <category term="Города и страны"/>
 
         <updated>2025-05-10T13:10:54+05:00</updated>
@@ -44,8 +44,8 @@
         <author>
             <name>Чингиз Тибэй</name>
         </author>
-        <link href="https://journal.madebytiny.studio/vena/"/>
-        <id>https://journal.madebytiny.studio/vena/</id>
+        <link href="http://journal.madebytiny.studio/vena/"/>
+        <id>http://journal.madebytiny.studio/vena/</id>
             <category term="Города и страны"/>
 
         <updated>2025-05-10T12:27:50+05:00</updated>
@@ -102,8 +102,8 @@
         <author>
             <name>Чингиз Тибэй</name>
         </author>
-        <link href="https://journal.madebytiny.studio/genuya/"/>
-        <id>https://journal.madebytiny.studio/genuya/</id>
+        <link href="http://journal.madebytiny.studio/genuya/"/>
+        <id>http://journal.madebytiny.studio/genuya/</id>
             <category term="Города и страны"/>
 
         <updated>2025-05-10T12:27:15+05:00</updated>
@@ -134,8 +134,8 @@
         <author>
             <name>Чингиз Тибэй</name>
         </author>
-        <link href="https://journal.madebytiny.studio/gavr/"/>
-        <id>https://journal.madebytiny.studio/gavr/</id>
+        <link href="http://journal.madebytiny.studio/gavr/"/>
+        <id>http://journal.madebytiny.studio/gavr/</id>
             <category term="Города и страны"/>
 
         <updated>2025-05-10T11:47:17+05:00</updated>
@@ -161,8 +161,8 @@
         <author>
             <name>Чингиз Тибэй</name>
         </author>
-        <link href="https://journal.madebytiny.studio/budapesht/"/>
-        <id>https://journal.madebytiny.studio/budapesht/</id>
+        <link href="http://journal.madebytiny.studio/budapesht/"/>
+        <id>http://journal.madebytiny.studio/budapesht/</id>
             <category term="Города и страны"/>
 
         <updated>2025-05-10T11:46:09+05:00</updated>
@@ -237,8 +237,8 @@
         <author>
             <name>Чингиз Тибэй</name>
         </author>
-        <link href="https://journal.madebytiny.studio/bratislava/"/>
-        <id>https://journal.madebytiny.studio/bratislava/</id>
+        <link href="http://journal.madebytiny.studio/bratislava/"/>
+        <id>http://journal.madebytiny.studio/bratislava/</id>
             <category term="Города и страны"/>
 
         <updated>2025-05-10T11:20:10+05:00</updated>
@@ -262,8 +262,8 @@
         <author>
             <name>Чингиз Тибэй</name>
         </author>
-        <link href="https://journal.madebytiny.studio/astana/"/>
-        <id>https://journal.madebytiny.studio/astana/</id>
+        <link href="http://journal.madebytiny.studio/astana/"/>
+        <id>http://journal.madebytiny.studio/astana/</id>
             <category term="Города и страны"/>
 
         <updated>2025-05-10T11:18:43+05:00</updated>
