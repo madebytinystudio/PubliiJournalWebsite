@@ -3,7 +3,7 @@
     <title>Журнал</title>
     <link href="http://journal.madebytiny.studio/feed.xml" rel="self" />
     <link href="http://journal.madebytiny.studio" />
-    <updated>2025-05-10T13:11:04+05:00</updated>
+    <updated>2025-05-10T14:27:08+05:00</updated>
     <author>
         <name>Tiny Studio</name>
     </author>
@@ -14,8 +14,8 @@
         <author>
             <name>Чингиз Тибэй</name>
         </author>
-        <link href="http://journal.madebytiny.studio/almaty-3/"/>
-        <id>http://journal.madebytiny.studio/almaty-3/</id>
+        <link href="http://journal.madebytiny.studio/almaty/"/>
+        <id>http://journal.madebytiny.studio/almaty/</id>
             <category term="Города и страны"/>
 
         <updated>2025-05-10T13:10:54+05:00</updated>
@@ -44,8 +44,8 @@
         <author>
             <name>Чингиз Тибэй</name>
         </author>
-        <link href="http://journal.madebytiny.studio/vena/"/>
-        <id>http://journal.madebytiny.studio/vena/</id>
+        <link href="http://journal.madebytiny.studio/wien/"/>
+        <id>http://journal.madebytiny.studio/wien/</id>
             <category term="Города и страны"/>
 
         <updated>2025-05-10T12:27:50+05:00</updated>
@@ -102,8 +102,8 @@
         <author>
             <name>Чингиз Тибэй</name>
         </author>
-        <link href="http://journal.madebytiny.studio/genuya/"/>
-        <id>http://journal.madebytiny.studio/genuya/</id>
+        <link href="http://journal.madebytiny.studio/genova/"/>
+        <id>http://journal.madebytiny.studio/genova/</id>
             <category term="Города и страны"/>
 
         <updated>2025-05-10T12:27:15+05:00</updated>
@@ -134,8 +134,8 @@
         <author>
             <name>Чингиз Тибэй</name>
         </author>
-        <link href="http://journal.madebytiny.studio/gavr/"/>
-        <id>http://journal.madebytiny.studio/gavr/</id>
+        <link href="http://journal.madebytiny.studio/le-havr/"/>
+        <id>http://journal.madebytiny.studio/le-havr/</id>
             <category term="Города и страны"/>
 
         <updated>2025-05-10T11:47:17+05:00</updated>
@@ -161,8 +161,8 @@
         <author>
             <name>Чингиз Тибэй</name>
         </author>
-        <link href="http://journal.madebytiny.studio/budapesht/"/>
-        <id>http://journal.madebytiny.studio/budapesht/</id>
+        <link href="http://journal.madebytiny.studio/buda-loving-pest/"/>
+        <id>http://journal.madebytiny.studio/buda-loving-pest/</id>
             <category term="Города и страны"/>
 
         <updated>2025-05-10T11:46:09+05:00</updated>
@@ -244,13 +244,13 @@
         <updated>2025-05-10T11:20:10+05:00</updated>
             <summary>
                 <![CDATA[
-                    <p class="dropcap"><span style="font-weight: 400;">Даже гугл не знает, чем заняться в Братиславе. Я вышел в магазин и случайно обошёл весь город.</span></p>
+                    <p><span style="font-weight: 400;">Даже гугл не знает, чем заняться в Братиславе. Я вышел в магазин и случайно обошёл весь город.</span></p>
 
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p class="dropcap"><span style="font-weight: 400;">Даже гугл не знает, чем заняться в Братиславе. Я вышел в магазин и случайно обошёл весь город.</span></p>
+                <p><span style="font-weight: 400;">Даже гугл не знает, чем заняться в Братиславе. Я вышел в магазин и случайно обошёл весь город.</span></p>
 
 <p><span style="font-weight: 400;">2018</span></p>
 <p> </p>
